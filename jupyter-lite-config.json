@@ -1,0 +1,7 @@
+{
+  "output_dir": "dist",
+  "contents": "content",
+  "litePlugins": [
+    "ndp-jupyterlab-extension"
+  ]
+}
